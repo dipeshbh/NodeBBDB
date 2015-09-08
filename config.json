@@ -1,0 +1,12 @@
+{
+    "url": "https://nodebbdb.herokuapp.com",
+    "secret": "1d30b094-ffe3-4815-be1e-6736ed160eae",
+    "database": "mongo",
+    "mongo": {
+        "host": "ds047692.mongolab.com",
+        "port": "47692",
+        "username": "heroku_rhr0tms9",
+        "password": "9743r229i5bn1dejnnr6ooccci",
+        "database": "heroku_rhr0tms9"
+    }
+}
