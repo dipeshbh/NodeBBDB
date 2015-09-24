@@ -1,4 +1,5 @@
 'use strict';
+require('newrelic')
 
 var	nconf = require('nconf'),
 	fs = require('fs'),

@@ -1,0 +1,4 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"MacBook-Pro.local","pid":15332,"time":"2015-09-24T06:39:06.429Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"MacBook-Pro.local","pid":15333,"time":"2015-09-24T06:39:06.879Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"MacBook-Pro.local","pid":15333,"time":"2015-09-24T06:39:08.954Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/1100361/applications/9059614","component":"new_relic_response"}
+{"v":0,"level":30,"name":"newrelic","hostname":"MacBook-Pro.local","pid":15333,"time":"2015-09-24T06:39:08.955Z","msg":"Connected to collector-128.newrelic.com:443 with agent run ID 38910755311278301.","component":"collector_api"}
